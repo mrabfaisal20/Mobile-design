@@ -189,5 +189,7 @@ display:flex
     margin-left: 70px;
     color:lightslategray
 }
-
+.image-download{
+    display:flex;
+}
     }
