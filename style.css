@@ -20,6 +20,7 @@ space: around;
     border: none;
     margin-top: 10px;
     margin-left: 20px;
+    cursor:pointer;
     
       }
 .btn2{
@@ -31,6 +32,7 @@ space: around;
     border: none;  
     margin-right: 30px; 
     margin-left: 370px;
+    cursor:pointer;
 }
 .btn3{
     font-family:Arial, Helvetica, sans-serif;
@@ -40,6 +42,7 @@ space: around;
     font-weight:100;
     border: none;
     margin-right: 30px; 
+    cursor:pointer;
 }   
 .btn4{
     font-family:Arial, Helvetica, sans-serif;
@@ -49,6 +52,7 @@ space: around;
     font-weight:100;
     border: none;
     margin-right: 30px; 
+    cursor:pointer;
 }
 .btn5{
     font-family:Arial, Helvetica, sans-serif;
@@ -58,6 +62,7 @@ space: around;
     font-weight:100;
     border: none;
     margin-right: 300px; 
+    cursor:pointer;
 }
 .btn6{
     font-family:Arial, Helvetica, sans-serif;
@@ -67,7 +72,7 @@ space: around;
     font-weight: 700;
     border: none;
     margin-right: 20px;
-
+    cursor:pointer;
 }
 
 .btn7{
@@ -79,6 +84,7 @@ space: around;
     padding:10px 30px;
     border-radius: 10px;
     border:none;
+    cursor:pointer;
 }
 
 .walpaper-design2{
@@ -114,6 +120,7 @@ margin-left:40px;
     padding:10px 30px;
     border-radius: 10px;
     border:none;
+    cursor:pointer;
 }
 
 .icon1{
@@ -220,6 +227,7 @@ display:flex
     
     border-radius: 10px;
     border-color: black;
+    cursor:pointer;
 }
 .play{
     font-family:Arial, Helvetica, sans-serif;
@@ -227,8 +235,28 @@ display:flex
     color: black;
     font-size: 15px ;
     font-weight: 500;
-    
     border-radius: 10px;
     border-color: black;
+    cursor:pointer;
+}
+
+.connection{
+    display:flex;
+}
+
+.im{
+    margin-left:350px;
+    margin-top:-210px;
+}
+.btn10{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: white;
+    color: black;
+    font-size: 15px ;
+    font-weight: 500;
+    padding:10px 30px;
+    border-radius: 10px;
+    border-color:#2a2a2a; 
+    cursor:pointer;
 }
 }
