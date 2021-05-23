@@ -92,6 +92,7 @@ space: around;
     margin-top: 20px;
     height: 400px;
     width:47%;
+    
 }
 
 .details{
@@ -108,10 +109,26 @@ space: around;
     border-radius: 10px;
     border:none;
 }
+
 .icon1{
     
     margin-top: 20px;
     width:50px;
+}
+
+.work3{
+   margin-left: 40%;
+}
+.caption{
+    margin-left: -55px;
+}
+
+.caption2{
+    margin-right: 20px;
+}
+.info{
+    margin-left:100px
+
 }
 
 
