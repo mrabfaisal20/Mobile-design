@@ -99,6 +99,14 @@ space: around;
    margin-left:40px;
    margin-top: 100px;
 }
+.trigory{
+    margin-left: 40px;
+    color:lightslategray;
+}
+
+.bnn{
+margin-left:40px;
+}
 .btn8{
     font-family:Arial, Helvetica, sans-serif;
     background-color:black;
@@ -128,8 +136,18 @@ space: around;
 }
 .info{
     margin-left:100px
-
 }
-
+.enter{
+    margin-left: 100px;
+    color:lightslategray
+}
+.ensure{
+    margin-left:110px;
+    color:lightslategray
+}
+.safe{
+    margin-left:100px;
+    color:lightslategray
+}
 
     }
