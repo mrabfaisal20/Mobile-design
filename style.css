@@ -9,7 +9,6 @@ color:#ffffff
 .btns{
 display:flexbox;
 space: around;
-
 }
 
 .btn1 {
@@ -31,7 +30,7 @@ space: around;
     font-weight: 700;
     border: none;  
     margin-right: 30px; 
-    margin-left: 300px;
+    margin-left: 370px;
 }
 .btn3{
     font-family:Arial, Helvetica, sans-serif;
@@ -67,14 +66,20 @@ space: around;
     font-size: 15px ;
     font-weight: 700;
     border: none;
+    margin-right: 20px;
+
 }
 
 .btn7{
     font-family:Arial, Helvetica, sans-serif;
-    background-color: #ffffff;
-    color: #2a2a2a;
+    background-color:black;
+    color: white;
     font-size: 15px ;
     font-weight: 900;
-    
+    padding:10px 30px;
+    border-radius: 10px;
+    border:none;
 }
+
+
     }
