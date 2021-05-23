@@ -199,14 +199,14 @@ display:flex
 
 .image-download{
     display:flex;
-    margin-left:50px
+    margin-left:100px
 }
 
 .impic{
     margin-top:20px
 }
 .down{
-    margin-left:120px;
+    margin-left:270px;
 }
 .download{
     color:lightslategray
@@ -243,10 +243,17 @@ display:flex
 .connection{
     display:flex;
 }
+.connection{
+    margin-left:100px;
+    
+}
 
+.con{
+    margin-top:100px;
+}
 .im{
-    margin-left:350px;
-    margin-top:-210px;
+    margin-left:570px;
+    margin-top:-280px;
 }
 .btn10{
     font-family:Arial, Helvetica, sans-serif;
@@ -259,4 +266,16 @@ display:flex
     border-color:#2a2a2a; 
     cursor:pointer;
 }
+.shelter{
+    margin-left:400px;
+    margin-top: 100px;
+}
+
+.sub{
+    font-size:25px
+}
+.fin{
+    margin-left:20px;
+}
+
 }
