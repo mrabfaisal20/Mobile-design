@@ -192,4 +192,19 @@ display:flex
 .image-download{
     display:flex;
 }
-    }
+
+.down{
+    margin-left:120px;
+}
+.download{
+    color:lightslategray
+}
+.for{
+    color:lightslategray
+}
+
+.quickly{
+    color:lightslategray
+}
+
+}
