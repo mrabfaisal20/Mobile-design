@@ -87,16 +87,14 @@ space: around;
 }
 .paragraph{
    
-    background-color: #f8f8fa;
-    margin-left:26px;
     margin-top: 20px;
-    height: 400px;
+    height: 500px;
     width:47%;
     
 }
 
 .details{
-   margin-left:40px;
+   margin-left:50px;
    margin-top: 100px;
 }
 .trigory{
@@ -134,19 +132,61 @@ margin-left:40px;
 .caption2{
     margin-right: 20px;
 }
+
+.information{
+display:flex
+}
 .info{
-    margin-left:100px
+    margin-left:100px;
+    margin-top:100px;
 }
 .enter{
-    margin-left: 100px;
+    margin-left: 0px;
     color:lightslategray
 }
 .ensure{
-    margin-left:110px;
+    margin-left:10px;
     color:lightslategray
 }
 .safe{
-    margin-left:100px;
+    
+    margin-left:0px;
+    color:lightslategray;
+    
+
+}
+.data-source{
+    margin-left:300px;
+    margin-top:70px;
+}
+.spending{
+    margin-left: 0px;
+    color:lightslategray
+}
+.easier{
+    margin-left: 10px;
+    color:lightslategray
+}
+.ency{
+    margin-left: 50px;
+    color:lightslategray
+}
+
+.card{
+    margin-left:250px;
+    margin-top:86px;
+}
+.add{
+    margin-left: 0px;
+    color:lightslategray
+}
+.your{
+    margin-left: 0px;
+    color:lightslategray
+}
+
+.int{
+    margin-left: 70px;
     color:lightslategray
 }
 
