@@ -92,10 +92,21 @@ space: around;
     margin-top: 20px;
     height: 400px;
     width:47%;
-    display:flex;
-    align-items:center
-    
+}
 
+.details{
+   margin-left:40px;
+   margin-top: 100px;
+}
+.btn8{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color:black;
+    color: white;
+    font-size: 15px ;
+    font-weight: 500;
+    padding:10px 30px;
+    border-radius: 10px;
+    border:none;
 }
 .icon1{
     
