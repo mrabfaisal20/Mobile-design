@@ -309,27 +309,47 @@ display:flex
 }
 
 .footer{
-background-color:lightslategrey;
+background-color:#f8f8fa;
 margin-left:15px;
 margin-right:-1px;
-space:around;
 margin-top:150px
 }
 
 .first{
- margin-left:100px;  
+ margin-left:80px;  
     
 }
 
 .second{
-    margin-left:230px;
+    margin-left:170px;
 }
 
 .third{
-    margin-left:260px;
+    margin-left:-0px;
 }
 
 .fourth{
+    margin-left:-2px;
+    margin-top:0px
+}
+
+.first-info{
+    margin-left:80px;
+    color:lightslategray;
+}
+
+.second-info{
+    margin-left:170px;
+    color:lightslategray;
+}
+
+.third-info{
+    margin-left:200px;
+    color:lightslategray;
+}
+
+.fourth-info{
     margin-left:250px;
+    color:lightslategray;
 }
 }
