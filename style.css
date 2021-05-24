@@ -357,11 +357,11 @@ margin-top:150px
     font-family:Arial, Helvetica, sans-serif;
 }
 
-.logos{display:flex
+.logos{display:flex;
 }
 
 .fb{
-  margin-left:70px  
+  margin-left:73px;  
 }
 
 .insta{
@@ -370,6 +370,13 @@ margin-top:150px
 
 .twit{
     margin-left:30px;
+}
+
+.copyright{
+    margin-left:75px;
+    color:lightslategray;
+    font-family:Arial, Helvetica, sans-serif;   
+    font-size:10px
 }
 .second-info{
     margin-left:170px;
@@ -390,4 +397,25 @@ margin-top:150px
     font-family:Arial, Helvetica, sans-serif;
 }
 
+.last{
+    display:flex
+}
+.last{
+    margin-left:250px;
+    margin-top:130px;
+}
+
+.cr{
+    margin-left:-10px;
+    font-size:12px;
+    margin-top:7px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.ben{
+    margin-left:4px;
+    margin-top:2px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:500;
+}
 }
