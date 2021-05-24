@@ -304,4 +304,11 @@ display:flex
     cursor:pointer;
 }
 
+.footer{
+    display:flex;
+}
+
+.footer{
+background-color:lightslategrey
+}
 }
