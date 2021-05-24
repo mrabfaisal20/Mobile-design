@@ -96,7 +96,8 @@ space: around;
     margin-top: 20px;
     height: 500px;
     width:47%;
-    
+    margin-left: 24px;
+    background-color:#f8f8fa;
 }
 
 .details{
@@ -282,9 +283,11 @@ display:flex
     display:flex
 }
 
+
 .email{
     margin-left:-50px;
 }
+
 .btn11{
     margin-left:250px;
     
