@@ -277,7 +277,8 @@ display:flex
 }
 .fin{
     margin-left:20px;
-    color:lightslategray
+    color:lightslategray;
+    font-family:Arial, Helvetica, sans-serif;
 }
 .flex{
     display:flex
@@ -285,11 +286,21 @@ display:flex
 
 
 .email{
-    margin-left:-50px;
+    margin-left:-110px;
+}
+
+.email{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color:#f8f8fa;;
+    color: black;
+    padding: 10px 100px 10px 100px;
+    font-size: 15px ;
+    font-weight: 500; 
+    border:none;
 }
 
 .btn11{
-    margin-left:250px;
+    margin-left:100px;
     
 }
 .btn11{
@@ -343,21 +354,25 @@ margin-top:150px
 .first-info{
     margin-left:80px;
     color:lightslategray;
+    font-family:Arial, Helvetica, sans-serif;
 }
 
 .second-info{
     margin-left:170px;
     color:lightslategray;
+    font-family:Arial, Helvetica, sans-serif;
 }
 
 .third-info{
     margin-left:200px;
     color:lightslategray;
+    font-family:Arial, Helvetica, sans-serif;
 }
 
 .fourth-info{
     margin-left:250px;
     color:lightslategray;
+    font-family:Arial, Helvetica, sans-serif;
 }
 
 }
