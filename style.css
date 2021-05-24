@@ -363,6 +363,9 @@ margin-top:150px
     font-family:Arial, Helvetica, sans-serif;
 }
 
+.logos{display:flex
+}
+
 .third-info{
     margin-left:200px;
     color:lightslategray;
