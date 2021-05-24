@@ -357,14 +357,26 @@ margin-top:150px
     font-family:Arial, Helvetica, sans-serif;
 }
 
+.logos{display:flex
+}
+
+.fb{
+  margin-left:70px  
+}
+
+.insta{
+    margin-left:20px;
+}
+
+.twit{
+    margin-left:30px;
+}
 .second-info{
     margin-left:170px;
     color:lightslategray;
     font-family:Arial, Helvetica, sans-serif;
 }
 
-.logos{display:flex
-}
 
 .third-info{
     margin-left:200px;
